@@ -11,14 +11,14 @@
 
 - 💬 Ask me about **Whatever you want**
 
-- 📫 How to reach me **shubham07kumargupta@gmail.com**
+- 📫 Reach me at **shubham07kumargupta@gmail.com**
 
 - ⚡ Fun fact **I'm not a developer, but I can definitely center a div!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itz_shu6h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_shu6h" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/shubham-kumar-gupta-00a929280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-kumar-gupta-00a929280" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shubham-kumar-gupta-00a929280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-kumar-gupta-00a929280" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_shu6h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_shu6h" height="30" width="40" /></a>
 </p>
 
