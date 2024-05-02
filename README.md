@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **shubham07kumargupta@gmail.com**
 
-- ⚡ Fun fact **I'm not a developer, but I can definitely center a div!**
+- 😎 Biggest Flex **I'm not a developer, but I can center a div!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
