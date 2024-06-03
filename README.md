@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring data scientist who is exploring various technologies</h3>
 <img align="right" alt="kuchh nhi hai bhai" width="400" src="https://th.bing.com/th/id/OIP.eCiYf9FH-McNEQ8ASs35IwAAAA?rs=1&pid=ImgDetMain"
 
-<p align="left"> <a href="https://x.com/im_shubh" target="blank"><img src="https://img.shields.io/twitter/follow/im_shubh?logo=twitter&style=for-the-badge" alt="itz_shu6h" /></a> </p>
+<p align="left"> <a href="https://x.com/i_m_shu6h" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_shu6h?logo=twitter&style=for-the-badge" alt="itz_i_m_shu6h" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/im_shubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_shubh" height="30" width="40" /></a>
+<a href="https://x.com/i_m_shu6h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_m_shu6h" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shubham-kumar-gupta-00a929280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-kumar-gupta-00a929280" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_shu6h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_shu6h" height="30" width="40" /></a>
 </p>
