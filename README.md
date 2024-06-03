@@ -1,4 +1,4 @@
-![logo](https://github.com/SHubhamanjk/SHubhamanjk/blob/main/Black and White Creative Profile Information LinkedIn Article Cover Image.gif)
+![logo]([https://github.com/SHubhamanjk/SHubhamanjk/blob/main/Black and White Creative Profile Information LinkedIn Article Cover Image.gif])(https://github.com/SHubhamanjk/SHubhamanjk/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.gif))
 <h1 align="center">Hi 👋, I'm Shubh</h1>
 <h3 align="center">An aspiring data scientist who is exploring various technologies</h3>
 <img align="right" alt="kuchh nhi hai bhai" width="400" src="https://th.bing.com/th/id/OIP.eCiYf9FH-McNEQ8ASs35IwAAAA?rs=1&pid=ImgDetMain"
