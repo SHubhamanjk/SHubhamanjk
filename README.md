@@ -1,7 +1,7 @@
 ![logo](https://github.com/SHubhamanjk/SHubhamanjk/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Shubh</h1>
 <h3 align="center">An aspiring data scientist who is exploring various technologies</h3>
-<img align="right" alt="kuchh nhi hai bhai" width="400" src="https://th.bing.com/th/id/OIP.eCiYf9FH-McNEQ8ASs35IwAAAA?rs=1&pid=ImgDetMain"
+<!-- <img align="right" alt="kuchh nhi hai bhai" width="400" src="https://th.bing.com/th/id/OIP.eCiYf9FH-McNEQ8ASs35IwAAAA?rs=1&pid=ImgDetMain" -->
 
 <p align="left"> <a href="https://x.com/itz_shu6h" target="blank"><img src="https://img.shields.io/twitter/follow/itz_shu6h?logo=twitter&style=for-the-badge" alt="itz_shu6h" /></a> </p>
 
