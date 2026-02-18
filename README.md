@@ -6,25 +6,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamiitpatna)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham07kumargupta@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918002007238)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+918002007238)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-exe.netlify.app)
+<a href="https://www.linkedin.com/in/shubhamiitpatna" target="_blank" rel="noopener noreferrer">[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamiitpatna)</a>
+<a href="mailto:shubham07kumargupta@gmail.com" target="_blank" rel="noopener noreferrer">[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham07kumargupta@gmail.com)</a>
+<a href="https://wa.me/918002007238" target="_blank" rel="noopener noreferrer">[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918002007238)</a>
+<a href="tel:+918002007238" target="_blank" rel="noopener noreferrer">[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+918002007238)</a>
+<a href="https://shubham-exe.netlify.app" target="_blank" rel="noopener noreferrer">[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-exe.netlify.app)</a>
 
 </div>
-
----
-
-## 👨‍💻 **ABOUT ME**
-
-Passionate AI/ML Engineer and Full Stack Developer with expertise in building intelligent systems and scalable applications. Specializing in Generative AI, Machine Learning, and Backend Development.
-
-Currently building AI-powered solutions at **Humantics** and leading AI/ML initiatives at **Technology Club, IIT Patna**. Love creating innovative projects that solve real-world problems using cutting-edge technology.
-
-Always exploring new technologies, contributing to open-source, and pushing the boundaries of what's possible with AI and software engineering.
-
----
 
 ## 🏆 **HIGHLIGHTS**
 
@@ -48,8 +36,8 @@ Always exploring new technologies, contributing to open-source, and pushing the 
 ### **Freelance AI & Full Stack Developer**
 **August 2025 – Present** | Remote, India
 
-- Built **[Drishkul](https://drishkul.com)** 🎓, an AI-powered career guidance platform delivering personalized reports, 2000+ career recommendations, RAG support, payments, coupons, referrals, and multi-role dashboards.
-- Developed a full stack website for **[RudranshMedia](https://rudranshmedia.netlify.app)** 🌐 to showcase content, featuring a secure 2FA enabled admin panel, SEO optimized architecture, and social media analytics.
+- Built **<a href="https://drishkul.com" target="_blank" rel="noopener noreferrer">Drishkul</a>** 🎓, an AI-powered career guidance platform delivering personalized reports, 2000+ career recommendations, RAG support, payments, coupons, referrals, and multi-role dashboards.
+- Developed a full stack website for **<a href="https://rudranshmedia.netlify.app" target="_blank" rel="noopener noreferrer">RudranshMedia</a>** 🌐 to showcase content, featuring a secure 2FA enabled admin panel, SEO optimized architecture, and social media analytics.
 
 ---
 
@@ -57,7 +45,7 @@ Always exploring new technologies, contributing to open-source, and pushing the 
 
 <div align="center">
 
-[![Let's Talk](https://img.shields.io/badge/%20Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/918002007238?text=Hi%20Shubham!%20👋%0A%0AI%20came%20across%20your%20profile%20and%20I'm%20impressed%20by%20your%20work%20in%20AI%2FML%20and%20Full%20Stack%20Development.%20I'd%20love%20to%20discuss%20a%20potential%20collaboration%20or%20opportunity%20with%20you.%20🚀)
+<a href="https://wa.me/918002007238?text=Hi%20Shubham!%20👋%0A%0AI%20came%20across%20your%20profile%20and%20I'm%20impressed%20by%20your%20work%20in%20AI%2FML%20and%20Full%20Stack%20Development.%20I'd%20love%20to%20discuss%20a%20potential%20collaboration%20or%20opportunity%20with%20you.%20🚀" target="_blank" rel="noopener noreferrer">[![Let's Talk](https://img.shields.io/badge/%20Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/918002007238)</a>
 
 </div>
 
@@ -87,6 +75,6 @@ Always exploring new technologies, contributing to open-source, and pushing the 
 
 Much of my best work is in **private repos** (production apps, client projects, and ongoing experiments). I’d love to connect and share more. Reach out and let’s see what we can build together.
 
-[![Let's Talk](https://img.shields.io/badge/Let's_Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/918002007238?text=Hi%20Shubham!%20👋%0A%0AI'd%20love%20to%20connect%20and%20learn%20more%20about%20your%20work.%20Let's%20discuss!%20🚀)
+<a href="https://wa.me/918002007238?text=Hi%20Shubham!%20👋%0A%0AI'd%20love%20to%20connect%20and%20learn%20more%20about%20your%20work.%20Let's%20discuss!%20🚀" target="_blank" rel="noopener noreferrer">[![WhatsApp](https://img.shields.io/badge/Let's_Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/918002007238)</a>
 
 </div>
