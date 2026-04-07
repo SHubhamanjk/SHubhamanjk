@@ -26,15 +26,15 @@
 
 ## 📈 **PROFESSIONAL EXPERIENCE**
 
-### **AI ML Intern** @ Humantics
-**April 2025 – Present** | Remote, India
+### **AI ML Engineer** @ Humantics
+**April 2024 – Present** | Remote, India
 
 - Built and deployed 3 AI-driven healthcare products in 6 months, with 2 scaling to 10,000+ premium users and achieving 95% retention through low friction experience
 - Architected scalable Agentic AI systems, reducing API latency by 55% and improving system throughput by 60% in production environments
 - Fine-tuned advanced medical vision models including MedGemma, U-Net, CXR Foundation Models, and YOLOv8 to enhance diagnostic accuracy and enable efficient real-time clinical integration
 
 ### **Freelance AI & Full Stack Developer**
-**August 2025 – Present** | Remote, India
+**August 2023 – Present** | Remote, India
 
 - Built **<a href="https://drishkul.com" target="_blank" rel="noopener noreferrer">Drishkul</a>** 🎓, an AI-powered career guidance platform delivering personalized reports, 2000+ career recommendations, RAG support, payments, coupons, referrals, and multi-role dashboards.
 - Developed a full stack website for **<a href="https://rudranshmedia.netlify.app" target="_blank" rel="noopener noreferrer">RudranshMedia</a>** 🌐 to showcase content, featuring a secure 2FA enabled admin panel, SEO optimized architecture, and social media analytics.
