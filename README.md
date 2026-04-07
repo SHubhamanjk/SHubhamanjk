@@ -16,7 +16,7 @@
 
 ## 🏆 **HIGHLIGHTS**
 
-- 🏆 **5X Hackathon Winner** - 100% Accuracy Achievement | Competitive AI excellence
+- 🏆 **6X Hackathon Winner** - 100% Accuracy Achievement | Competitive AI excellence
 - 🎓 **Academic Excellence** - CGPA: 9.2/10 @ IIT Patna
 - 🚀 **15+ Real Projects** - Production-ready solutions deployed and scaling
 
