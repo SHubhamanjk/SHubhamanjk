@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/shubhamiitpatna" target="_blank" rel="noopener noreferrer">[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamiitpatna)</a>
 <a href="mailto:shubham07kumargupta@gmail.com" target="_blank" rel="noopener noreferrer">[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham07kumargupta@gmail.com)</a>
 <a href="https://shubham-exe.netlify.app" target="_blank" rel="noopener noreferrer">[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-exe.netlify.app)</a>
-<a href="https://drive.google.com/file/d/1P0PTNqO66nNPzrlRaa7aOvRHNPGx6HaQ/view" target="_blank" rel="noopener noreferrer">[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1P0PTNqO66nNPzrlRaa7aOvRHNPGx6HaQ/view)</a>
+<a href="https://drive.google.com/file/d/1P0PTNqO66nNPzrlRaa7aOvRHNPGx6HaQ/view" target="_blank" rel="noopener noreferrer">[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1795Qqh4dADxBJqygjZxuuF2cZmaeeiqu/view)</a>
 
 </div>
 
