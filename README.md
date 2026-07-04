@@ -9,7 +9,7 @@
 <a href="https://wa.me/918002007238?text=Hi%20Shubham!%20I%20came%20across%20your%20profile%20and%20would%20like%20to%20connect.%20Let's%20discuss!" target="_blank" rel="noopener noreferrer">[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918002007238)</a>
 <a href="https://www.linkedin.com/in/shubhamiitpatna" target="_blank" rel="noopener noreferrer">[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamiitpatna)</a>
 <a href="mailto:shubham07kumargupta@gmail.com" target="_blank" rel="noopener noreferrer">[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham07kumargupta@gmail.com)</a>
-<a href="https://shubham-exe.netlify.app" target="_blank" rel="noopener noreferrer">[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-exe.netlify.app)</a>
+<a href="https://imshubham.com" target="_blank" rel="noopener noreferrer">[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://imshubham.com)</a>
 <a href="https://drive.google.com/file/d/1P0PTNqO66nNPzrlRaa7aOvRHNPGx6HaQ/view" target="_blank" rel="noopener noreferrer">[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1795Qqh4dADxBJqygjZxuuF2cZmaeeiqu/view)</a>
 
 </div>
